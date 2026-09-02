@@ -1,0 +1,9 @@
+{
+  "name": "ai-image-editor",
+  "version": "1.0.0",
+  "description": "AI image editor using Hugging Face",
+  "type": "module",
+  "dependencies": {
+    "@gradio/client": "^1.10.0"
+  }
+}
