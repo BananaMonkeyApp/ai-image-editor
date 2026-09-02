@@ -1,6 +1,6 @@
 import { Client } from "@gradio/client";
 
-const SPACE_ID = "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast";
+const SPACE_ID = "Tacalasonia/Qwen-Image-Edit-2511-LoRAs-Fast";
 const APP_CODE = "8700";
 
 export default async function handler(req, res) {
